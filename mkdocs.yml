@@ -1,0 +1,18 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.expand
+plugins:
+  - blog:
+      post_url_format: "{slug}"
+      post_excerpt: optional
+      categories_allowed:
+        - Amadeus for Developers
+      pagination_per_page: 5
+  - tags:
+      enabled: false
+  # - social
+    
+
