@@ -1,17 +1,16 @@
-# Home
+---
+hide:
+    - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+# Hello! 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Hi! I’m **Minji Kim**, a developer advocate at Amadeus for Developers.
 
-## Project layout
+With over 7 years of experience working abroad, I have a passion for travel, cultural differences, and technology. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I mainly help developers build travel applications with **Amadeus Travel APIs** more efficiently by providing technical materials. I am also fascinated by the **Open-Source world**, where people contribute their skills and knowledge to help each other, fostering a sense of trust and a shared vision. I also love understanding different cultures by **traveling**. I am from South Korea, working in France after a 6-year stint in Thailand. 
+
+This website is for you to check my contents from everywhere. Enjoy!
+
