@@ -2,8 +2,6 @@
 hide:
     - navigation
 ---
-
-
 # Hello! 
 
 Hi! I’m **Minji Kim**, a developer advocate at Amadeus for Developers.
