@@ -1,0 +1,46 @@
+site_name: Minji Kim
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.footer
+  palette:
+    primary: teal
+    accent: green
+
+plugins:
+  - search
+  - blog:
+      post_url_format: "{slug}"
+      post_excerpt: optional
+      categories_allowed:
+        - Amadeus for Developers
+        - Blockchain
+        - Python
+      pagination_per_page: 5
+  - tags:
+      enabled: false
+  # - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Minkarin4
+    - icon: fontawesome/brands/github
+      link: https://github.com/minjikarin
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/minjikimth
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:km.minjikim@gmail.com
+copyright: Copyright &copy; 2021 - 2023 Minji Kim
+
+nav:
+  - Home: index.md
+  - Blog & videos: 
+      - blog/index.md
+  - Speaking:
+      - talks/index.md
