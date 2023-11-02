@@ -1,4 +1,17 @@
+#Project info 
 site_name: Minji Kim
+site_url: https://www.minji.me
+site_description: Personal blog
+site_author: Minji Kim
+
+#Repository
+repo_name: minjikarin/myblog-mkdocs
+repo_url: https://github.com/minjikarin/myblog-mkdocs
+
+#Copyright
+copyright: Copyright &copy; 2021 - 2023 Minji Kim
+
+#Configuration 
 theme:
   name: material
   logo: assets/logo.png
@@ -41,8 +54,6 @@ extra:
       link: https://www.linkedin.com/in/minjikimth
     - icon: fontawesome/solid/paper-plane
       link: mailto:km.minjikim@gmail.com
-
-copyright: Copyright &copy; 2021 - 2023 Minji Kim
 
 nav:
   - Home: index.md
