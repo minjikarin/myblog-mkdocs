@@ -3,8 +3,6 @@ hide:
     - navigation
 ---
 
-![Minji-Main-image](../images/main-image.png)
-
 # Hello! 
 
 Hi! I’m **Minji Kim**, a developer advocate at Amadeus for Developers.
