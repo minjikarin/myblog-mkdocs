@@ -3,7 +3,7 @@ hide:
     - navigation
 ---
 
-![Minji-Main-image](/docs/blog/images/main-image.png)
+![Minji-Main-image](../images/main-image.png)
 
 # Hello! 
 
