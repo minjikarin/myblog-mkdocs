@@ -2,11 +2,15 @@
 hide:
     - navigation
 ---
-# My talks & interviews at Conferences 
+# My talks and interviews at Conferences 
 
-## Upcoming 
+## 2025
 
-Looking forward to having the first talk in 2024 :) 
+> Coming soon!
+
+## 2024
+
+> **01 MAY**: [Elevate Your API Partner Integration with Postman](/docs/blog/posts/2024-05-01.md) at POST/CON 24 
 
 ## 2023
 
